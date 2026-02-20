@@ -1,5 +1,6 @@
 # Go binary
 dota2-coach
+Dota2-GSI
 *.exe
 *.exe~
 *.dll
